@@ -33,6 +33,14 @@ Workflow
 4. Convert text into TF-IDF features
 5. Train sentiment classification model
 
+## Model
+
+The trained sentiment classification model is saved as:
+
+model/sentiment_model.pkl
+
+This allows the model to be reused without retraining.
+
 Dataset Source
 
 https://github.com/hausanlp/NaijaSenti
